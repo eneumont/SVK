@@ -31,7 +31,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.4.0.84",
+    "IDEVersion": "2023.2.1.75",
   },
   "resources": [
     {"id":{"name":"sEnemy","path":"sprites/sEnemy/sEnemy.yy",},},
@@ -39,6 +39,7 @@
     {"id":{"name":"oCharacter","path":"objects/oCharacter/oCharacter.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
     {"id":{"name":"oEnemy","path":"objects/oEnemy/oEnemy.yy",},},
+    {"id":{"name":"HI","path":"fonts/HI/HI.yy",},},
     {"id":{"name":"oPlatform","path":"objects/oPlatform/oPlatform.yy",},},
     {"id":{"name":"Tutorial","path":"rooms/Tutorial/Tutorial.yy",},},
   ],
