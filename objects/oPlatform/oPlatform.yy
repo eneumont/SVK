@@ -25,7 +25,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "sPlatform",
+    "path": "sprites/sPlatform/sPlatform.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }

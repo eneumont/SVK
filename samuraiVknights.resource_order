@@ -18,6 +18,7 @@
   ],
   "ResourceOrderSettings": [
     {"name":"sEnemy","order":1,"path":"sprites/sEnemy/sEnemy.yy",},
+    {"name":"sPlatform","order":2,"path":"sprites/sPlatform/sPlatform.yy",},
     {"name":"oPlayer","order":1,"path":"objects/oPlayer/oPlayer.yy",},
     {"name":"oEnemy","order":2,"path":"objects/oEnemy/oEnemy.yy",},
     {"name":"oPlatform","order":3,"path":"objects/oPlatform/oPlatform.yy",},
